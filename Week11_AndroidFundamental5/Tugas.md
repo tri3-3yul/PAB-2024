@@ -1,4 +1,4 @@
-# Tugas Praktikum PAB Week 12
+# Tugas Praktikum PAB Week 11
 
 ### Buatlah aplikasi android sederhana dengan ketentuan sebagai berikut:
 1. Mengimplementasikan ViewModel dan LiveData
@@ -16,7 +16,7 @@
 ### Detail Laporan Praktikum
 #### Laporan berisi screenshot source code dan tampilan user interface beserta penjelasannya disertai dengan kesimpulan. 
     
-Tugas dikumpulkan dalam bentuk **.ZIP** dengan format nama **PPAB-12_NIM_Nama.zip yang berisi source code dari aplikasi** dan **.PDF dengan format nama PPAB-12_NIM_Nama.pdf yang berisi laporan praktikum**. Perlu diingat bahwa **file .zip tidak berisikan file pdf, murni berisi source code saja** dan gunakan **cara .zip sesuai yang diajarkan oleh asisten**.
+Tugas dikumpulkan dalam bentuk **.ZIP** dengan format nama **PPAB-11_NIM_Nama.zip yang berisi source code dari aplikasi** dan **.PDF dengan format nama PPAB-11_NIM_Nama.pdf yang berisi laporan praktikum**. Perlu diingat bahwa **file .zip tidak berisikan file pdf, murni berisi source code saja** dan gunakan **cara .zip sesuai yang diajarkan oleh asisten**.
 
     PPAB-XX_NIM_Nama.zip
     PPAB-XX_NIM_Nama.pdf
